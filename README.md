@@ -1,4 +1,4 @@
-# this is git detka:)
+# this is git
 
 # git clone https://github.com/eziz/test.git
 
@@ -24,6 +24,18 @@
 
 # git branch
 
+# git branch feature
+
+# git branch -d release/0.1.0
+
+# git checkout
+
+# git merge
+
+# GitFlow
+
+# git merge hotfix
+
 # git reset index.html
 
 # git reset --hard
@@ -36,7 +48,13 @@
 
 # git remote -v
 
+# git pull origin master
+
 # .gitignore
+
+# Доступ по SSH
+
+# ssh-add
 
 # clear
 
