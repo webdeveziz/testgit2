@@ -26,6 +26,8 @@
 
 # git branch feature
 
+# git branch -d develop
+
 # git branch -d release/0.1.0
 
 # git checkout
